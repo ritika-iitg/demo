@@ -1,5 +1,5 @@
 # demo
 My first git Repository 
 <br>
-author-Ritika
+author-Ritika (iitg)
 
